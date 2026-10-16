@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center File Sheet -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M38,28 L62,28 L74,40 L74,78 C74,80.2 72.2,82 70,82 L38,82 C35.8,82 34,80.2 34,78 L34,32 C34,29.8 35.8,28 38,28 Z" />
+    <!-- Folded Corner -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M62,28 L62,40 L74,40 Z" />
+    <!-- Electric Transmission Bolt inside sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,44 L45,58 L53,58 L48,72 L62,56 L54,56 Z" />
+</vector>
